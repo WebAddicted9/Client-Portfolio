@@ -61,33 +61,21 @@ const Hero = () => {
               className=" flex gap-5"
             >
               <li>
-                <a href="">
+                <a href="https://github.com/RohitWagh7272">
                   {" "}
                   <AiFillGithub className=" h-[1.8rem] w-[1.8rem] text-xl hover:scale-125" />{" "}
                 </a>
               </li>
               <li>
-                <a href="">
+                <a href="https://www.linkedin.com/in/rsw72?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3Bdh5M0EpuRCeKmGB17zduxw%3D%3D">
                   {" "}
                   <FaLinkedinIn className=" h-[1.8rem] w-[1.8rem] text-xl hover:scale-125 " />{" "}
                 </a>
               </li>
               <li>
-                <a href="">
+                <a href="https://www.instagram.com/rohitwagh4444?utm_source=qr&igsh=YnQ1dWRjMWFpNnhk">
                   {" "}
                   <AiFillInstagram className=" h-[1.8rem] w-[1.8rem] text-xl hover:scale-125  " />{" "}
-                </a>
-              </li>
-              <li>
-                <a href="">
-                  {" "}
-                  <FaFacebook className=" h-[1.8rem] w-[1.8rem] text-xl hover:scale-125  " />{" "}
-                </a>
-              </li>
-              <li>
-                <a href="">
-                  {" "}
-                  <AiFillTwitterCircle className=" h-[1.8rem] w-[1.8rem] text-xl hover:scale-125  " />{" "}
                 </a>
               </li>
             </ul>
