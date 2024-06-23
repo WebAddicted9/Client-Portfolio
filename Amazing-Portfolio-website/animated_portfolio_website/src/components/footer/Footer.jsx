@@ -13,26 +13,8 @@ const Footer = () => {
         <div className=" flex items-center justify-center gap-8 sm:gap-5">
           <a
             data-aos="fade-up"
-            data-aos-duration="1000"
-            href=""
-            className="box font-medium text-white   flex items-center justify-center flex-col"
-          >
-            <FaTelegramPlane className=" text-black text-3xl hover:scale-125 cursor-pointer" />
-            <p>Telegram</p>
-          </a>
-          <a
-            data-aos="fade-up"
-            data-aos-duration="1200"
-            href=""
-            className="box font-medium text-white  flex items-center justify-center flex-col"
-          >
-            <IoLogoWhatsapp className=" text-black text-3xl hover:scale-125 cursor-pointer" />
-            <p>WhatsApp</p>
-          </a>
-          <a
-            data-aos="fade-up"
             data-aos-duration="1400"
-            href=""
+            href="https://www.instagram.com/rohitwagh4444?utm_source=qr&igsh=YnQ1dWRjMWFpNnhk"
             className="box font-medium text-white  flex items-center justify-center flex-col"
           >
             <RiInstagramFill className=" text-black text-3xl hover:scale-125 cursor-pointer" />
